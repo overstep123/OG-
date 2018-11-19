@@ -1,0 +1,9 @@
+D:\My Softwares\MVS projects\OG\OG\bin\Debug\OG.exe.config
+D:\My Softwares\MVS projects\OG\OG\bin\Debug\OG.exe
+D:\My Softwares\MVS projects\OG\OG\bin\Debug\OG.pdb
+D:\My Softwares\MVS projects\OG\OG\obj\Debug\OG.csprojResolveAssemblyReference.cache
+D:\My Softwares\MVS projects\OG\OG\obj\Debug\OG.Form1.resources
+D:\My Softwares\MVS projects\OG\OG\obj\Debug\OG.Properties.Resources.resources
+D:\My Softwares\MVS projects\OG\OG\obj\Debug\OG.csproj.GenerateResource.Cache
+D:\My Softwares\MVS projects\OG\OG\obj\Debug\OG.exe
+D:\My Softwares\MVS projects\OG\OG\obj\Debug\OG.pdb
